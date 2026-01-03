@@ -116,13 +116,13 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dangkhoipham80&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats-dangkhoipham80.vercel.app/api?username=dangkhoipham80&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dangkhoipham80&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="54%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangkhoipham80&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/wakatime?username=dangkhoipham80&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime" />
+  <img width="54%" src="https://github-readme-stats-dangkhoipham80.vercel.app/api/top-langs/?username=dangkhoipham80&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img width="42%" src="https://github-readme-stats-dangkhoipham80.vercel.app/api/wakatime?username=dangkhoipham80&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime" />
 </p>
 
 <p align="center">
@@ -203,19 +203,19 @@
 
 <p align="center">
   <a href="[Fill project 1 repo]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dangkhoipham80&repo=[Fill repo name]&theme=tokyonight&hide_border=true" alt="Project 1" />
+    <img src="https://github-readme-stats-dangkhoipham80.vercel.app/api/pin/?username=dangkhoipham80&repo=[Fill repo name]&theme=tokyonight&hide_border=true" alt="Project 1" />
   </a>
   <a href="[Fill project 2 repo]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dangkhoipham80&repo=[Fill repo name]&theme=tokyonight&hide_border=true" alt="Project 2" />
+    <img src="https://github-readme-stats-dangkhoipham80.vercel.app/api/pin/?username=dangkhoipham80&repo=[Fill repo name]&theme=tokyonight&hide_border=true" alt="Project 2" />
   </a>
 </p>
 
 <p align="center">
   <a href="[Fill project 3 repo]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dangkhoipham80&repo=[Fill repo name]&theme=tokyonight&hide_border=true" alt="Project 3" />
+    <img src="https://github-readme-stats-dangkhoipham80.vercel.app/api/pin/?username=dangkhoipham80&repo=[Fill repo name]&theme=tokyonight&hide_border=true" alt="Project 3" />
   </a>
   <a href="[Fill project 4 repo]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dangkhoipham80&repo=[Fill repo name]&theme=tokyonight&hide_border=true" alt="Project 4" />
+    <img src="https://github-readme-stats-dangkhoipham80.vercel.app/api/pin/?username=dangkhoipham80&repo=[Fill repo name]&theme=tokyonight&hide_border=true" alt="Project 4" />
   </a>
 </p>
 
