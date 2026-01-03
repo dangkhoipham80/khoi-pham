@@ -384,16 +384,49 @@
 
 ## 🌟 WHY SUBSCRIBE?
 
-```
-🎮  New gameplay videos every week
-🔴  Live streams on weekends
-🎯  Pro strategies & hidden secrets
-🎭  Entertainment & funny moments
-💬  Active community & Discord server
-🎁  Regular giveaways & contests
-🏆  Exclusive member perks
-⚡  Early access to content
-```
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Weekly%20Content-🎮-brightgreen?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Live%20Streams-🔴-red?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Pro%20Strategies-🎯-blue?style=for-the-badge"/> 
+</p> <table align="center"> 
+  <tr> 
+    <td>🎮 
+      <b>New Gameplay Weekly</b>
+    </td> 
+    <td>Fresh gaming content every week</td> 
+  </tr> 
+  <tr> 
+    <td>🔴 
+      <b>Live Streams</b>
+    </td> 
+    <td>Weekend live sessions & real-time chat</td> 
+  </tr> 
+  <tr> 
+    <td>🎯 <b>Pro Tips & Secrets</b></td> 
+    <td>Hidden tricks you won’t find anywhere else</td> 
+  </tr> 
+  <tr> 
+    <td>🎭 <b>Fun & Entertainment</b></td> 
+    <td>Funny moments & epic fails guaranteed 😂</td> 
+  </tr> 
+  <tr> 
+    <td>💬 <b>Community & Discord</b></td> 
+    <td>Join our active Discord server</td> 
+  </tr> 
+  <tr> 
+    <td>🎁 <b>Giveaways</b></td> 
+    <td>Regular prizes & special events</td> 
+  </tr> 
+  <tr> 
+    <td>🏆 <b>Member Perks</b></td> <td>Exclusive benefits for subscribers</td> 
+  </tr> 
+  <tr> 
+    <td>⚡ <b>Early Access</b></td> <td>Watch new content before anyone else</td> 
+  </tr> 
+</table> 
+<p align="center"> 🚀 
+  <b>Hit Subscribe & become part of the journey!</b> 
+</p>
 
 <br>
 
